@@ -1,0 +1,13 @@
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.exe
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.dll
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.AssemblyInfo.cs
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.dll
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.pdb
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.deps.json
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.runtimeconfig.json
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.runtimeconfig.dev.json
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.pdb
+C:\Users\HP\csharp\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployeePayrollUsingThreads.genruntimeconfig.cache
